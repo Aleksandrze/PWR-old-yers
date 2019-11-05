@@ -1,0 +1,8 @@
+Lista studentow:
+241501 Test Test 4.0
+241502 Sebastian Debowski 3.0
+251803 Misiuryna Debowski 3.0
+158004 Simanko Willian 2.0
+245005 Rolicz Polina 4.5
+254006 Rafalowich Evgien 3.5
+524057 Radoslaw Michal 2.0
